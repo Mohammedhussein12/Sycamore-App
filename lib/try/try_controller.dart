@@ -1,0 +1,1 @@
+List<String> tips = ['tip1','tipow'];
