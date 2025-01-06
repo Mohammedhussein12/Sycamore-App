@@ -140,7 +140,7 @@ Watch the demo video to see the application in action:
 
 | Health Tips | Breathing Exercises | Notifications |
 |-------------|-------------------|---------------|
-| ![Health Tips](assets/screenshots/tips_for_your_health_1.png) | ![Exercises](assets/screenshots/exercises.png) | ![Notifications](assets/screenshots/notifications.png) |
+| ![Health Tips](assets/screenshots/tips_for_your_healh_1.png) | ![Exercises](assets/screenshots/exercises.png) | ![Notifications](assets/screenshots/notifications.png) |
 
 | Patient Reports | Questions & Registration | Verification |
 |----------------|-------------------------|--------------|
