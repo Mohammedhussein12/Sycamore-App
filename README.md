@@ -11,7 +11,7 @@
 8. [👥 Contributors](#-contributors)
 
 ## 🚀 Introduction
-Sycamore is an innovative healthcare monitoring system designed to help patients with pulmonary conditions manage their oxygen levels effectively. This smart medical application provides real-time oxygen monitoring, personalized health insights, and seamless communication between patients and healthcare providers.
+Sycamore is a healthcare monitoring system designed to assist patients with pulmonary conditions in tracking their oxygen levels. The app provides real-time health data, personalized insights, and enables seamless communication with healthcare providers. Sycamore aims to improve patient outcomes by integrating smart technology with medical monitoring.
 
 ## 🛠 Installation & Setup
 To run this project locally, follow these steps:
@@ -116,7 +116,6 @@ Watch the demo video to see the application in action:
 - Real-time health alerts
 - Customizable notification system
 - Data synchronization
-- Offline mode functionality
 - Multi-language support
 
 ### 👨‍⚕️ Healthcare Provider Integration
