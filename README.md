@@ -137,6 +137,3 @@ Watch the demo video to see the application in action:
 
 ## 👥 Contributors
 - **Mohammed Hussein** ([Mohammedhussein12](https://github.com/Mohammedhussein12))
-
----
-*Sycamore - Empowering Pulmonary Health Management*
