@@ -93,7 +93,7 @@ Watch the demo video to see the application in action:
 
 ### 📊 Health Monitoring
 - Real-time oxygen level tracking
-- Heart rate monitoring (60-200 BPM range)
+- Heart rate monitoring
 - Temperature tracking
 - Daily progress visualization
 - Historical health data analysis
