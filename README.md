@@ -126,8 +126,6 @@ Watch the demo video to see the application in action:
 - Treatment plan tracking
 - Emergency alert system
 
-[Previous sections remain the same...]
-
 ## 📷 Screenshots
 
 | Welcome & Onboarding                                       | Authentication | Registration |
