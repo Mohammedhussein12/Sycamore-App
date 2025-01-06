@@ -130,25 +130,25 @@ Watch the demo video to see the application in action:
 
 ## 📷 Screenshots
 
-| Welcome & Onboarding | Authentication | Registration |
-|---------------------|----------------|--------------|
-| ![Welcome Message](screenshots/welcome_message.png) | ![Sign Up](screenshots/sign_up.png) | ![Registration](screenshots/register-4.png) |
+| Welcome & Onboarding                                       | Authentication | Registration |
+|------------------------------------------------------------|----------------|--------------|
+| ![Welcome Message](assets/screenshots/welcome_message.png) | ![Sign Up](assets/screenshots/sign_up.png) | ![Registration](assets/screenshots/register-4.png) |
 
 | Patient Dashboard | Doctor Dashboard | Health Monitoring |
 |------------------|------------------|-------------------|
-| ![Patient Home](screenshots/home_page_for_patient.png) | ![Doctor Home](screenshots/doctor_home_page_screen.png) | ![Patient Report](screenshots/patient_report_3_graph.png) |
+| ![Patient Home](assets/screenshots/home_page_for_patient.png) | ![Doctor Home](assets/screenshots/doctor_home_page_screen.png) | ![Patient Report](assets/screenshots/patient_report_3_graph.png) |
 
 | Health Tips | Breathing Exercises | Notifications |
 |-------------|-------------------|---------------|
-| ![Health Tips](screenshots/tips_for_your_health_1.png) | ![Exercises](screenshots/exercises.png) | ![Notifications](screenshots/notifications.png) |
+| ![Health Tips](assets/screenshots/tips_for_your_health_1.png) | ![Exercises](assets/screenshots/exercises.png) | ![Notifications](assets/screenshots/notifications.png) |
 
 | Patient Reports | Questions & Registration | Verification |
 |----------------|-------------------------|--------------|
-| ![Report About](screenshots/patient_report_1_about.png) | ![Health Questions](screenshots/question_16.png) | ![Verification](screenshots/verification.png) |
+| ![Report About](assets/screenshots/patient_report_1_about.png) | ![Health Questions](assets/screenshots/question_16.png) | ![Verification](assets/screenshots/verification.png) |
 
 | Manual & Instructions | Warnings & Alerts | Success States |
 |---------------------|-------------------|----------------|
-| ![Manual](screenshots/manual.png) | ![Warning](screenshots/warning.png) | ![Success Register](screenshots/success_register.png) |
+| ![Manual](assets/screenshots/manual.png) | ![Warning](assets/screenshots/warning.png) | ![Success Register](assets/screenshots/success_register.png) |
 
 
 ## 👥 Contributors
